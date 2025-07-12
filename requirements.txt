@@ -1,0 +1,7 @@
+streamlit 
+numpy 
+pandas
+python=3.9
+
+
+# runing commend:- streamlit run run.py
